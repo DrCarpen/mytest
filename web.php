@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use da;
+use routes;
 
 //引用 ListController 控制器
 use App\Http\Controllers\Admin\Member\ListController;
